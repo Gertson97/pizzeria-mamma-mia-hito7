@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+.header-pizza {
+  background-color: #1c1c1c;
+  background-size: cover;
+  background-position: center;
+  min-height: 320px;
+}
